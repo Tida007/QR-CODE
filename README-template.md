@@ -22,7 +22,7 @@ This challenge is to build out this [QR code component and get it looking as clo
 
 
 ### Links
-- Solution URL: []
+- Solution URL: [https://github.com/Tida007/QR-CODE.git]
 
 - Live site URL: [(https://tida007.github.io/QR-CODE/qr-code.html)]
 
