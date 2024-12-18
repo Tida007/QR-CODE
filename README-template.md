@@ -24,7 +24,7 @@ This challenge is to build out this [QR code component and get it looking as clo
 ### Links
 - Solution URL: []
 
-- Live server URL: [()]
+- Live site URL: [(https://tida007.github.io/QR-CODE/qr-code.html)]
 
 ## My process
 
@@ -45,8 +45,7 @@ This challenge is to build out this [QR code component and get it looking as clo
 
 ## Author 
 
-- website [Tida Tmg](https://tida-tmg.github.io/)
-- Github [Tida Tmg](https://github.io/Tida007)
+- website [Tida Tmg](https://tida007.github.io/QR-CODE/qr-code.html)
 - Frontend Mentor - [@Tida007](https://www.frontendmentor.io/profile/Tida007)
 - Discord [Tida Tmg](https://discord.com/tida_tmg)
 
